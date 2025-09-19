@@ -1,0 +1,26 @@
+{
+  "name": "4rtyfiedautoms",
+  "version": "1.0.0",
+  "description": "Whatsap automations",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donbryans42-byte/4RTYFIEDAUTOMS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donbryans42-byte/4RTYFIEDAUTOMS/issues"
+  },
+  "homepage": "https://github.com/donbryans42-byte/4RTYFIEDAUTOMS#readme",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "pino": "^9.5.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
