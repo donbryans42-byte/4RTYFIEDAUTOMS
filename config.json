@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "autoReact": false,
+  "autoReply": false,
+  "replyMessage": "🔥 4RTYFIEDAUTOMS here!",
+  "welcomeMessage": "👋 Welcome to the group!",
+  "goodbyeMessage": "👋 Goodbye!",
+  "statusPollInterval": 30,
+  "prefix": "!",
+  "owner": "254704082062@s.whatsapp.net"
+}

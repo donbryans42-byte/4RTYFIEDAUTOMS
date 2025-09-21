@@ -1,26 +1,34 @@
 {
   "name": "4rtyfiedautoms",
   "version": "1.0.0",
-  "description": "Whatsap automations",
-  "main": "index.js",
+  "description": "WhatsApp automations (CypherX style)",
+  "main": "bot.js",
   "scripts": {
     "start": "node bot.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon bot.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/donbryans42-byte/4RTYFIEDAUTOMS.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "whatsapp",
+    "automation",
+    "baileys",
+    "bot"
+  ],
+  "author": "donbryans42-byte",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/donbryans42-byte/4RTYFIEDAUTOMS/issues"
   },
   "homepage": "https://github.com/donbryans42-byte/4RTYFIEDAUTOMS#readme",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.5",
-    "pino": "^9.5.0",
+    "@whiskeysockets/baileys": "^6.7.9",
+    "pino": "^9.3.2",
     "qrcode-terminal": "^0.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
   }
 }
