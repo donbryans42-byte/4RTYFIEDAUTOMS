@@ -1,0 +1,540 @@
+2025-09-27 10:04:52: (node:8456) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:04:52: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:04:52: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:6
+2025-09-27 10:04:52: import fs from 'fs';
+2025-09-27 10:04:52: ^^^^^^
+2025-09-27 10:04:52: 
+2025-09-27 10:04:52: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:04:52:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:04:52:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:04:52:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:04:52:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:04:52:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:04:52:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:04:52:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:04:52:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:04:52:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:04:52: 
+2025-09-27 10:04:52: Node.js v22.19.0
+2025-09-27 10:04:52: (node:18740) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:04:52: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:04:52: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:6
+2025-09-27 10:04:52: import fs from 'fs';
+2025-09-27 10:04:52: ^^^^^^
+2025-09-27 10:04:52: 
+2025-09-27 10:04:52: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:04:52:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:04:52:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:04:52:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:04:52:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:04:52:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:04:52:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:04:52:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:04:52:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:04:52:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:04:52: 
+2025-09-27 10:04:52: Node.js v22.19.0
+2025-09-27 10:04:53: (node:8312) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:04:53: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:04:53: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:6
+2025-09-27 10:04:53: import fs from 'fs';
+2025-09-27 10:04:53: ^^^^^^
+2025-09-27 10:04:53: 
+2025-09-27 10:04:53: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:04:53:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:04:53:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:04:53:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:04:53:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:04:53:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:04:53:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:04:53:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:04:53:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:04:53:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:04:53: 
+2025-09-27 10:04:53: Node.js v22.19.0
+2025-09-27 10:04:53: (node:21652) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:04:53: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:04:53: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:6
+2025-09-27 10:04:53: import fs from 'fs';
+2025-09-27 10:04:53: ^^^^^^
+2025-09-27 10:04:53: 
+2025-09-27 10:04:53: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:04:53:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:04:53:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:04:53:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:04:53:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:04:53:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:04:53:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:04:53:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:04:53:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:04:53:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:04:53: 
+2025-09-27 10:04:53: Node.js v22.19.0
+2025-09-27 10:04:53: (node:17060) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:04:53: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:04:53: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:6
+2025-09-27 10:04:53: import fs from 'fs';
+2025-09-27 10:04:53: ^^^^^^
+2025-09-27 10:04:53: 
+2025-09-27 10:04:53: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:04:53:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:04:53:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:04:53:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:04:53:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:04:53:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:04:53:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:04:53:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:04:53:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:04:53:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:04:53: 
+2025-09-27 10:04:53: Node.js v22.19.0
+2025-09-27 10:04:54: (node:6656) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:04:54: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:04:54: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:6
+2025-09-27 10:04:54: import fs from 'fs';
+2025-09-27 10:04:54: ^^^^^^
+2025-09-27 10:04:54: 
+2025-09-27 10:04:54: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:04:54:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:04:54:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:04:54:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:04:54:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:04:54:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:04:54:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:04:54:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:04:54:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:04:54:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:04:54: 
+2025-09-27 10:04:54: Node.js v22.19.0
+2025-09-27 10:04:54: (node:24496) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:04:54: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:04:54: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:6
+2025-09-27 10:04:54: import fs from 'fs';
+2025-09-27 10:04:54: ^^^^^^
+2025-09-27 10:04:54: 
+2025-09-27 10:04:54: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:04:54:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:04:54:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:04:54:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:04:54:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:04:54:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:04:54:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:04:54:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:04:54:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:04:54:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:04:54: 
+2025-09-27 10:04:54: Node.js v22.19.0
+2025-09-27 10:04:54: (node:25964) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:04:54: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:04:54: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:6
+2025-09-27 10:04:54: import fs from 'fs';
+2025-09-27 10:04:54: ^^^^^^
+2025-09-27 10:04:54: 
+2025-09-27 10:04:54: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:04:54:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:04:54:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:04:54:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:04:54:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:04:54:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:04:54:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:04:54:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:04:54:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:04:54:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:04:54: 
+2025-09-27 10:04:54: Node.js v22.19.0
+2025-09-27 10:04:54: (node:28496) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:04:54: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:04:54: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:6
+2025-09-27 10:04:54: import fs from 'fs';
+2025-09-27 10:04:54: ^^^^^^
+2025-09-27 10:04:54: 
+2025-09-27 10:04:54: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:04:54:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:04:54:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:04:54:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:04:54:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:04:54:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:04:54:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:04:54:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:04:54:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:04:54:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:04:54: 
+2025-09-27 10:04:54: Node.js v22.19.0
+2025-09-27 10:04:54: (node:18436) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:04:54: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:04:54: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:6
+2025-09-27 10:04:54: import fs from 'fs';
+2025-09-27 10:04:54: ^^^^^^
+2025-09-27 10:04:54: 
+2025-09-27 10:04:54: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:04:54:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:04:54:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:04:54:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:04:54:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:04:54:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:04:54:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:04:54:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:04:54:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:04:54:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:04:54: 
+2025-09-27 10:04:54: Node.js v22.19.0
+2025-09-27 10:05:56: (node:7564) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:05:56: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:05:56: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:1
+2025-09-27 10:05:56: ﻿import { existsSync, mkdirSync } from "fs";
+2025-09-27 10:05:56:  ^^^^^^
+2025-09-27 10:05:56: 
+2025-09-27 10:05:56: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:05:56:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:05:56:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:05:56:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:05:56:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:05:56:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:05:56:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:05:56:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:05:56:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:05:56:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:05:56: 
+2025-09-27 10:05:56: Node.js v22.19.0
+2025-09-27 10:05:56: (node:3860) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:05:56: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:05:56: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:1
+2025-09-27 10:05:56: ﻿import { existsSync, mkdirSync } from "fs";
+2025-09-27 10:05:56:  ^^^^^^
+2025-09-27 10:05:56: 
+2025-09-27 10:05:56: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:05:56:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:05:56:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:05:56:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:05:56:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:05:56:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:05:56:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:05:56:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:05:56:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:05:56:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:05:56: 
+2025-09-27 10:05:56: Node.js v22.19.0
+2025-09-27 10:05:56: (node:24700) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:05:56: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:05:56: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:1
+2025-09-27 10:05:56: ﻿import { existsSync, mkdirSync } from "fs";
+2025-09-27 10:05:56:  ^^^^^^
+2025-09-27 10:05:56: 
+2025-09-27 10:05:56: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:05:56:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:05:56:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:05:56:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:05:56:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:05:56:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:05:56:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:05:56:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:05:56:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:05:56:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:05:56: 
+2025-09-27 10:05:56: Node.js v22.19.0
+2025-09-27 10:05:56: (node:21032) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:05:56: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:05:56: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:1
+2025-09-27 10:05:56: ﻿import { existsSync, mkdirSync } from "fs";
+2025-09-27 10:05:56:  ^^^^^^
+2025-09-27 10:05:56: 
+2025-09-27 10:05:56: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:05:56:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:05:56:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:05:56:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:05:56:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:05:56:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:05:56:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:05:56:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:05:56:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:05:56:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:05:56: 
+2025-09-27 10:05:56: Node.js v22.19.0
+2025-09-27 10:05:56: (node:20960) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:05:56: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:05:56: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:1
+2025-09-27 10:05:56: ﻿import { existsSync, mkdirSync } from "fs";
+2025-09-27 10:05:56:  ^^^^^^
+2025-09-27 10:05:56: 
+2025-09-27 10:05:56: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:05:56:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:05:56:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:05:56:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:05:56:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:05:56:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:05:56:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:05:56:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:05:56:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:05:56:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:05:56: 
+2025-09-27 10:05:56: Node.js v22.19.0
+2025-09-27 10:05:57: (node:28472) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:05:57: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:05:57: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:1
+2025-09-27 10:05:57: ﻿import { existsSync, mkdirSync } from "fs";
+2025-09-27 10:05:57:  ^^^^^^
+2025-09-27 10:05:57: 
+2025-09-27 10:05:57: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:05:57:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:05:57:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:05:57:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:05:57:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:05:57:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:05:57:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:05:57:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:05:57:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:05:57:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:05:57: 
+2025-09-27 10:05:57: Node.js v22.19.0
+2025-09-27 10:05:57: (node:29528) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:05:57: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:05:57: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:1
+2025-09-27 10:05:57: ﻿import { existsSync, mkdirSync } from "fs";
+2025-09-27 10:05:57:  ^^^^^^
+2025-09-27 10:05:57: 
+2025-09-27 10:05:57: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:05:57:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:05:57:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:05:57:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:05:57:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:05:57:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:05:57:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:05:57:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:05:57:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:05:57:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:05:57: 
+2025-09-27 10:05:57: Node.js v22.19.0
+2025-09-27 10:05:57: (node:6424) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:05:57: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:05:57: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:1
+2025-09-27 10:05:57: ﻿import { existsSync, mkdirSync } from "fs";
+2025-09-27 10:05:57:  ^^^^^^
+2025-09-27 10:05:57: 
+2025-09-27 10:05:57: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:05:57:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:05:57:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:05:57:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:05:57:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:05:57:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:05:57:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:05:57:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:05:57:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:05:57:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:05:57: 
+2025-09-27 10:05:57: Node.js v22.19.0
+2025-09-27 10:05:57: (node:14968) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:05:57: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:05:57: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:1
+2025-09-27 10:05:57: ﻿import { existsSync, mkdirSync } from "fs";
+2025-09-27 10:05:57:  ^^^^^^
+2025-09-27 10:05:57: 
+2025-09-27 10:05:57: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:05:57:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:05:57:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:05:57:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:05:57:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:05:57:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:05:57:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:05:57:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:05:57:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:05:57:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:05:57: 
+2025-09-27 10:05:57: Node.js v22.19.0
+2025-09-27 10:05:57: (node:15376) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:05:57: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:05:57: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:1
+2025-09-27 10:05:57: ﻿import { existsSync, mkdirSync } from "fs";
+2025-09-27 10:05:57:  ^^^^^^
+2025-09-27 10:05:57: 
+2025-09-27 10:05:57: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:05:57:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:05:57:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:05:57:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:05:57:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:05:57:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:05:57:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:05:57:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:05:57:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:05:57:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:05:57: 
+2025-09-27 10:05:57: Node.js v22.19.0
+2025-09-27 10:06:07: (node:22576) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:06:07: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:06:07: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:1
+2025-09-27 10:06:07: ﻿import { existsSync, mkdirSync } from "fs";
+2025-09-27 10:06:07:  ^^^^^^
+2025-09-27 10:06:07: 
+2025-09-27 10:06:07: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:06:07:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:06:07:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:06:07:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:06:07:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:06:07:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:06:07:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:06:07:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:06:07:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:06:07:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:06:07: 
+2025-09-27 10:06:07: Node.js v22.19.0
+2025-09-27 10:06:07: (node:3152) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:06:07: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:06:07: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:1
+2025-09-27 10:06:07: ﻿import { existsSync, mkdirSync } from "fs";
+2025-09-27 10:06:07:  ^^^^^^
+2025-09-27 10:06:07: 
+2025-09-27 10:06:07: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:06:07:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:06:07:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:06:07:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:06:07:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:06:07:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:06:07:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:06:07:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:06:07:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:06:07:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:06:07: 
+2025-09-27 10:06:07: Node.js v22.19.0
+2025-09-27 10:06:07: (node:23356) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:06:07: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:06:07: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:1
+2025-09-27 10:06:07: ﻿import { existsSync, mkdirSync } from "fs";
+2025-09-27 10:06:07:  ^^^^^^
+2025-09-27 10:06:07: 
+2025-09-27 10:06:07: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:06:07:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:06:07:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:06:07:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:06:07:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:06:07:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:06:07:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:06:07:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:06:07:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:06:07:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:06:07: 
+2025-09-27 10:06:07: Node.js v22.19.0
+2025-09-27 10:06:07: (node:23804) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:06:07: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:06:07: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:1
+2025-09-27 10:06:07: ﻿import { existsSync, mkdirSync } from "fs";
+2025-09-27 10:06:07:  ^^^^^^
+2025-09-27 10:06:07: 
+2025-09-27 10:06:07: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:06:07:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:06:07:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:06:07:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:06:07:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:06:07:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:06:07:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:06:07:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:06:07:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:06:07:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:06:07: 
+2025-09-27 10:06:07: Node.js v22.19.0
+2025-09-27 10:06:07: (node:25332) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:06:07: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:06:07: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:1
+2025-09-27 10:06:07: ﻿import { existsSync, mkdirSync } from "fs";
+2025-09-27 10:06:07:  ^^^^^^
+2025-09-27 10:06:07: 
+2025-09-27 10:06:07: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:06:07:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:06:07:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:06:07:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:06:07:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:06:07:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:06:07:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:06:07:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:06:07:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:06:07:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:06:07: 
+2025-09-27 10:06:07: Node.js v22.19.0
+2025-09-27 10:06:08: (node:24548) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:06:08: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:06:08: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:1
+2025-09-27 10:06:08: ﻿import { existsSync, mkdirSync } from "fs";
+2025-09-27 10:06:08:  ^^^^^^
+2025-09-27 10:06:08: 
+2025-09-27 10:06:08: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:06:08:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:06:08:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:06:08:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:06:08:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:06:08:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:06:08:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:06:08:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:06:08:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:06:08:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:06:08: 
+2025-09-27 10:06:08: Node.js v22.19.0
+2025-09-27 10:06:08: (node:29172) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:06:08: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:06:08: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:1
+2025-09-27 10:06:08: ﻿import { existsSync, mkdirSync } from "fs";
+2025-09-27 10:06:08:  ^^^^^^
+2025-09-27 10:06:08: 
+2025-09-27 10:06:08: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:06:08:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:06:08:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:06:08:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:06:08:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:06:08:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:06:08:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:06:08:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:06:08:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:06:08:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:06:08: 
+2025-09-27 10:06:08: Node.js v22.19.0
+2025-09-27 10:06:08: (node:27052) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:06:08: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:06:08: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:1
+2025-09-27 10:06:08: ﻿import { existsSync, mkdirSync } from "fs";
+2025-09-27 10:06:08:  ^^^^^^
+2025-09-27 10:06:08: 
+2025-09-27 10:06:08: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:06:08:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:06:08:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:06:08:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:06:08:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:06:08:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:06:08:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:06:08:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:06:08:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:06:08:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:06:08: 
+2025-09-27 10:06:08: Node.js v22.19.0
+2025-09-27 10:06:08: (node:24628) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:06:08: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:06:08: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:1
+2025-09-27 10:06:08: ﻿import { existsSync, mkdirSync } from "fs";
+2025-09-27 10:06:08:  ^^^^^^
+2025-09-27 10:06:08: 
+2025-09-27 10:06:08: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:06:08:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:06:08:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:06:08:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:06:08:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:06:08:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:06:08:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:06:08:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:06:08:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:06:08:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:06:08: 
+2025-09-27 10:06:08: Node.js v22.19.0
+2025-09-27 10:06:08: (node:17720) Warning: Failed to load the ES module: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs. Make sure to set "type": "module" in the nearest package.json file or use the .mjs extension.
+2025-09-27 10:06:08: (Use `node --trace-warnings ...` to show where the warning was created)
+2025-09-27 10:06:08: C:\Users\dell\Documents\4RTYFIEDAUTOMS\bot-status.cjs:1
+2025-09-27 10:06:08: ﻿import { existsSync, mkdirSync } from "fs";
+2025-09-27 10:06:08:  ^^^^^^
+2025-09-27 10:06:08: 
+2025-09-27 10:06:08: SyntaxError: Cannot use import statement outside a module
+2025-09-27 10:06:08:     at wrapSafe (node:internal/modules/cjs/loader:1638:18)
+2025-09-27 10:06:08:     at Module._compile (node:internal/modules/cjs/loader:1680:20)
+2025-09-27 10:06:08:     at Object..js (node:internal/modules/cjs/loader:1839:10)
+2025-09-27 10:06:08:     at Module.load (node:internal/modules/cjs/loader:1441:32)
+2025-09-27 10:06:08:     at Function._load (node:internal/modules/cjs/loader:1263:12)
+2025-09-27 10:06:08:     at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-09-27 10:06:08:     at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+2025-09-27 10:06:08:     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+2025-09-27 10:06:08:     at node:internal/main/run_main_module:36:49
+2025-09-27 10:06:08: 
+2025-09-27 10:06:08: Node.js v22.19.0
